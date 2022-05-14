@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-09T18:57:57.000Z</updated>
+  <updated>2022-05-14T17:31:55.000Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>模板仓库</title>
+    <link href="http://example.com/2022/05/15/%E6%A8%A1%E6%9D%BF/"/>
+    <id>http://example.com/2022/05/15/%E6%A8%A1%E6%9D%BF/</id>
+    <published>2022-05-14T17:31:55.000Z</published>
+    <updated>2022-05-14T17:31:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>我会将一些算法模板传到<a href="https://git.acwing.com/syf/template">GIT仓库</a><br>这样就不用去acwing打卡上找好久了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我会将一些算法模板传到&lt;a href=&quot;https://git.acwing.com/syf/template&quot;&gt;GIT仓库&lt;/a&gt;&lt;br&gt;这样就不用去acwing打卡上找好久了&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>django框架学习笔记</title>
